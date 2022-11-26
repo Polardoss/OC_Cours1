@@ -1,4 +1,13 @@
-p
+header
 {
-    color: blue;
+    background-color: gray;
+}
+section
+{
+    background-color: red;
+}
+
+ul
+{
+    display: flex;
 }
